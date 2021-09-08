@@ -1,0 +1,11 @@
+{
+  "name": "bootstrap",
+  "version": "3.3.7",
+  "description": "Meris Bootstrap",
+  "main": "_bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
